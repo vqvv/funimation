@@ -1,0 +1,3 @@
+the info is displayed like this
+
+email:password:userid:authtoken
